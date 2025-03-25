@@ -1,6 +1,5 @@
 ﻿using ActivityPlannerAPI.Interface;
 using ActivityPlannerAPI.Models;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace ActivityPlannerAPI.Controllers
